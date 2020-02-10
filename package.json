@@ -1,0 +1,30 @@
+{
+  "name": "gsap-scroll",
+  "description": "gsap3에서 사용할 수 스크롤 플러그인.",
+  "version": "0.1.0",
+  "keywords": [
+    "gsap3",
+    "esm",
+    "scrollmagic",
+    "progress"
+  ],
+  "license": "MIT",
+  "authro": "suhyun kim: <chohoki@gmail.com>",
+  "main": "dist/gsapScroll.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carrot-farm/gsap-scroll"
+  },
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "dependencies": {
+    "gsap": "^3.1.1"
+  },
+  "scripts": {
+    "start": "cross-env NODE_PATH=src react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
