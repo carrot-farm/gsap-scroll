@@ -6,11 +6,11 @@
 ## install
 Using npm
 ```sh
-$ npm install gsap-scroll
+$ npm install gsap gsap-scroll
 ```
 Using yarn
 ```sh
-$ yarn gsap-scroll
+$ yarn gsap gsap-scroll
 ```
 
 ## Example
