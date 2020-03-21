@@ -14,6 +14,11 @@ $ yarn gsap gsap-scroll
 ```
 
 ## Example
+
+* 예시 사이트
+   * [example](https://gsapscroll.carrotlabel.com/)
+
+* 기본 예제 코드
 ```js
 import gsap from 'gsap';
 import g from 'gsap-scroll';
